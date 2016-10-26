@@ -1,0 +1,11 @@
+.sass-cache
+/dist/*
+.DS_Store
+node_modules
+.idea
+src/sass/all.scss
+src/css/all.css
+src/css/main.css
+src/css/all.css.map
+src/js/index.js
+

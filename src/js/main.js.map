@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.es6.js"],"names":["a","console","log"],"mappings":";;AAAA,IAAMA,IAAI,CAAV;AACAC,QAAQC,GAAR,CAAYF,CAAZ","file":"main.js","sourcesContent":["const a = 1;\nconsole.log(a);"]}

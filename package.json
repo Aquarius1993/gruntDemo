@@ -1,0 +1,41 @@
+{
+  "name": "applicationForm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt-sass": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "connect-livereload": "^0.6.0",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^1.4.0",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-usemin": "^3.1.1",
+    "load-grunt-tasks": "^3.5.2",
+    "properties-reader": "^0.0.15",
+    "serve-index": "^1.8.0",
+    "serve-static": "^1.11.1"
+  },
+  "scripts": {
+    "start": "grunt devT",
+    "prod": "grunt prod",
+    "dev": "grunt dev"
+  },
+  "author": "liheyao",
+  "license": "ISC"
+}

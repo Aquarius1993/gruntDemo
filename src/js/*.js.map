@@ -1,0 +1,1 @@
+{"version":3,"sources":["*.js"],"names":["console","log"],"mappings":"AAAA;;AAEAA,QAAQC,GAAR,CAAY,KAAZ;AACA","file":"*.js","sourcesContent":["'use strict';\n\nconsole.log('dev');\n//# sourceMappingURL=*.js.map\n"]}
